@@ -1,0 +1,8 @@
+{
+    "quotes": false,
+    "semi": false,
+    "comma-dangle": false,
+    "printWidth": 250,
+    "space-before-function-paren": false,
+    "singleQuate": true
+}
