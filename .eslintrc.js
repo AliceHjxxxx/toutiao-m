@@ -26,6 +26,7 @@ module.exports = {
         "no-useless-return": "off",
         "no-unused-vars": "off",
         "prefer-const": "off",
-        "space-in-parens": "off"
+        "space-in-parens": "off",
+        "space-before-function-paren": "off"
     }
 }

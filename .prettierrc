@@ -2,7 +2,7 @@
     "quotes": false,
     "semi": false,
     "comma-dangle": false,
-    "printWidth": 250,
+    "printWidth": 100,
     "space-before-function-paren": false,
     "singleQuate": true
 }
